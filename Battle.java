@@ -49,7 +49,7 @@ public class Battle {
             round++;
         }
 
-        System.out.println("\nКонец)");
+        System.out.println("\nКонец)))");
         boolean t1 = isTeamAlive(team1);
         boolean t2 = isTeamAlive(team2);
 
